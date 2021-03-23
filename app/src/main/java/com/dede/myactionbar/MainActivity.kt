@@ -11,6 +11,8 @@ import android.widget.Toast
 import androidx.appcompat.widget.SearchView
 import com.dede.myactionbar.databinding.ActivityMainBinding
 
+//test
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
